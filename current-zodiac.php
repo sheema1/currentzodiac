@@ -3,7 +3,7 @@ defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
 /*
  Plugin Name: current-zodiac
- Plugin URI: https://github.com/sheema1/
+ Plugin URI: https://github.com/sheema1/currentzodiac
  Description: A simple WordPress plugin to show current month zodiac sign
  Version: 1.0
  Author: Sheema Sadia
